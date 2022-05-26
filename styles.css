@@ -1,4 +1,12 @@
-
+:root {
+    --blue-gray-700: hsla(215, 30%, 22%, 1);
+    --blue-gray-800: hsla(215, 28%, 17%, 1);
+    --blue-gray-900: hsla(0, 0%, 11%, 1);
+    --green-500: hsla(142, 93%, 65%, 1);
+    --green-600: hsla(144, 70%, 58%, 1);
+    --green-700: hsla(160, 84%, 39%, 1);
+    --white: hsla(0, 0%, 100%, 1);
+}
 
 .karla {
     font-family: 'Karla', sans-serif;
