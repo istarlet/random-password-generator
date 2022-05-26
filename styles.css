@@ -7,3 +7,15 @@
 .inter {
     font-family: 'Inter', sans-serif;
 }
+
+fw-400 {
+    font-weight: 400;
+}
+
+fw-500 {
+    font-weight: 500;
+}
+
+fw-800 {
+    font-weight: 800;
+}
